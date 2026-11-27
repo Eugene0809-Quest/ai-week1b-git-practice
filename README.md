@@ -1,5 +1,10 @@
 # AI Week 1b: Git and GitHub Practice
 
+## About me
+Name: Eugene
+Programme: Bachelor of Computer Science
+AI topic I'm curious about: how AI recommendation systems work
+
 **Quest International University** · Artificial Intelligence (BCS2044 / BCS2143 / BME4123)
 Lecturer: Assoc. Prof. Ir. Ts. Dr. Mah Siew Kien
 

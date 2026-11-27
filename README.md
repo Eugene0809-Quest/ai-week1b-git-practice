@@ -1,5 +1,10 @@
 # AI Week 1b: Git and GitHub Practice
 
+## About me
+Name: Eugene
+Programme: Bachelor of Computer Science
+AI topic I'm curious about: how AI recommendation systems work
+
 **Quest International University** · Artificial Intelligence (BCS2044 / BCS2143 / BME4123)
 Lecturer: Assoc. Prof. Ir. Ts. Dr. Mah Siew Kien
 
@@ -63,3 +68,9 @@ git push -u origin add-about-me
 
 Put the link to your **merged pull request** in your Week 1b tutorial file and submit it on
 [eQIU](https://eqiu.qiu.edu.my/course/view.php?id=7852).
+
+## About me 
+Name: Eugene
+Programme: Bachelor of Computer Science
+AI topic I'm curious about: how AI recommendation systems work
+Why?
